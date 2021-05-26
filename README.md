@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivbsam-datascience
+- 👋 Hi, I’m Vivek
 - 👀 I’m interested in python, MySQL, Tableau, ML, DL
 - 🌱 I’m currently learning to code in python and visualize using Tableau
 - 💞️ I’m looking to collaborate on ...
